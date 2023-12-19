@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrNikk
+- 👋 Hi, I’m  /@MrNikk/
 - 👀 I’m interested in ... Cybersecurity
 - 🌱 I’m currently learning ... Web Designing
 - 💞️ I’m looking to collaborate on ... Projects
